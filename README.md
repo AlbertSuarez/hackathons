@@ -1,3 +1,9 @@
+[![HitCount](http://hits.dwyl.io/AlbertSuarez/hackathons.svg)](http://hits.dwyl.io/AlbertSuarez/hackathons)
+[![GitHub stars](https://img.shields.io/github/stars/AlbertSuarez/hackathons.svg)](https://GitHub.com/AlbertSuarez/hackathons/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/hackathons.svg)](https://GitHub.com/AlbertSuarez/hackathons/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/AlbertSuarez/hackathons.svg)](https://github.com/AlbertSuarez/hackathons)
+[![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/hackathons.svg)](https://GitHub.com/AlbertSuarez/hackathons/graphs/contributors/)
+
 # Hackathons
 
 I have attended 14 hackathons. 9 as a participant and 4 as an organizer. Here is a list of of them:
