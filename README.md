@@ -8,21 +8,21 @@
 
 I have attended 14 hackathons. 9 as a participant and 4 as an organizer. Here is a list of of them:
 
-| #  | Name                | Role       | Location                 | Info  |
-| :- |:------------------- |:---------- |:------------------------ | :---- |
-| 01 | HackUPC 2016        | Hacker     | Barcelona, Catalonia     | TODO  |
-| 02 | HackUPC Fall 2016   | Organizer  | Barcelona, Catalonia     | TODO  |
-| 03 | HackUPC Winter 2017 | Organizer  | Barcelona, Catalonia     | TODO  |
-| 04 | START Hack 2017     | Hacker     | St. Gallen, Switzerland  | TODO  |
-| 05 | CopenHacks 2017     | Hacker     | Copenhagen, Denmark      | TODO  |
-| 06 | HackUPC Fall 2017   | Organizer  | Barcelona, Catalonia     | TODO  |
-| 07 | HackUPC 2018        | Organizer  | Barcelona, Catalonia     | TODO  |
-| 08 | jacobsHack! 2018    | Hacker     | Bremen, Germany          | TODO  |
-| 09 | HackEPS 2018        | Hacker     | Lleida, Catalonia        | TODO  |
-| 10 | Junction 2018       | Hacker     | Helsinki, Finland        | TODO  |
-| 11 | Royal Hackaway v2   | Hacker     | London, England          | TODO  |
-| 12 | HackCU Episode V    | Hacker     | Boulder, USA             | TODO  |
-| 13 | Hack The Burgh 2019 | Hacker     | Edinburgh, Scotland      | TODO  |
-| 14 | CopenHacks 2019     | Hacker     | Copenhagen, Denmark      | TODO  |
+| #  | Name                | Role       | Location                 | Date        | Info  |
+| :- |:------------------- |:---------- |:------------------------ | :---------- | :---- |
+| 01 | HackUPC 2016        | Hacker     | Barcelona, Catalonia     | 2016/02/19  | TODO  |
+| 02 | HackUPC Fall 2016   | Organizer  | Barcelona, Catalonia     | 2016/10/07  | TODO  |
+| 03 | HackUPC Winter 2017 | Organizer  | Barcelona, Catalonia     | 2017/03/03  | TODO  |
+| 04 | START Hack 2017     | Hacker     | St. Gallen, Switzerland  | 2017/03/17  | TODO  |
+| 05 | CopenHacks 2017     | Hacker     | Copenhagen, Denmark      | 2017/04/22  | TODO  |
+| 06 | HackUPC Fall 2017   | Organizer  | Barcelona, Catalonia     | 2017/10/13  | TODO  |
+| 07 | HackUPC 2018        | Organizer  | Barcelona, Catalonia     | 2018/10/19  | TODO  |
+| 08 | jacobsHack! 2018    | Hacker     | Bremen, Germany          | 2018/11/03  | TODO  |
+| 09 | HackEPS 2018        | Hacker     | Lleida, Catalonia        | 2018/11/17  | TODO  |
+| 10 | Junction 2018       | Hacker     | Helsinki, Finland        | 2018/11/23  | TODO  |
+| 11 | Royal Hackaway v2   | Hacker     | London, England          | 2019/02/02  | TODO  |
+| 12 | HackCU Episode V    | Hacker     | Boulder, USA             | 2019/02/23  | TODO  |
+| 13 | Hack The Burgh 2019 | Hacker     | Edinburgh, Scotland      | 2019/03/16  | TODO  |
+| 14 | CopenHacks 2019     | Hacker     | Copenhagen, Denmark      | 2019/04/06  | TODO  |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
