@@ -10,10 +10,10 @@ I have attended 14 hackathons. 9 as a participant and 4 as an organizer. Here is
 
 | #  | Name                | Role       | Location                 | Date        | Info  |
 | :- |:------------------- |:---------- |:------------------------ | :---------- | :---- |
-| 01 | HackUPC 2016        | Hacker     | Barcelona, Catalonia     | 2016/02/19  | TODO  |
-| 02 | HackUPC Fall 2016   | Organizer  | Barcelona, Catalonia     | 2016/10/07  | TODO  |
-| 03 | HackUPC Winter 2017 | Organizer  | Barcelona, Catalonia     | 2017/03/03  | TODO  |
-| 04 | START Hack 2017     | Hacker     | St. Gallen, Switzerland  | 2017/03/17  | TODO  |
+| 01 | HackUPC 2016        | Hacker     | Barcelona, Catalonia     | 2016/02/19  | This was my first hackathon ever. We didn't make any project but it was fun for starting in this world.  |
+| 02 | HackUPC Fall 2016   | Organizer  | Barcelona, Catalonia     | 2016/10/07  | First hackathon as an organizer. Full stress and a lot of things I learnt from that weekend. I started loving this world. |
+| 03 | HackUPC Winter 2017 | Organizer  | Barcelona, Catalonia     | 2017/03/03  | The hackathon where I matured in this field. This hackathons made a difference.  |
+| 04 | START Hack 2017     | Hacker     | St. Gallen, Switzerland  | 2017/03/17  | In this hackathon we did [PayTrack](https://devpost.com/software/paytrack), an Android app which takes your latest transactions when traveling abroad to determine places to eat, visit, shop.. in order to help you with your budget.  |
 | 05 | CopenHacks 2017     | Hacker     | Copenhagen, Denmark      | 2017/04/22  | TODO  |
 | 06 | HackUPC Fall 2017   | Organizer  | Barcelona, Catalonia     | 2017/10/13  | TODO  |
 | 07 | HackUPC 2018        | Organizer  | Barcelona, Catalonia     | 2018/10/19  | TODO  |
