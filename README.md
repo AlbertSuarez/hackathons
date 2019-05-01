@@ -25,6 +25,6 @@ I have attended 14 hackathons. 9 as a participant and 4 as an organizer. Here is
 | 11 | Royal Hackaway v2   | Hacker     | London, England          | 2019/02/02  | In this hackathon we did [Trippify](https://devpost.com/software/trippify), a web app that allows you to create an event in order to share it with your friends and organize all the trip distribution. We got the 3rd overall place. |
 | 12 | HackCU Episode V    | Hacker     | Boulder, USA             | 2019/02/23  | My first experience in a US hackathon. We built [Food Lord](https://devpost.com/software/food-lord), a calories calculator using Computer Vision.  |
 | 13 | Hack The Burgh 2019 | Hacker     | Edinburgh, Scotland      | 2019/03/16  | The most useful project that I've ever built, [UnstuckOverflow](https://devpost.com/software/un-stuckoverflow). A Chrome extension allows you to stay in contact with someone on your company who can help you whenever you are facing some index out of bounds errors. We won two prizes: 2nd overall place and best project hosted in a Domain.com.  |
-| 14 | CopenHacks 2019     | Hacker     | Copenhagen, Denmark      | 2019/04/06  | TODO  |
+| 14 | CopenHacks 2019     | Hacker     | Copenhagen, Denmark      | 2019/04/06  | One of the most complex project that I've been working on, [Donework](https://github.com/AlbertSuarez/donework). A content generator given a table of contents using Machine Learning and search similarity.  |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
