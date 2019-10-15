@@ -8,7 +8,7 @@
 
 ![Hackathons map](img/hackathons.png)
 
-I have attended 18 hackathons. 14 as a participant and 4 as an organizer. Here is a list of of them:
+I have attended 19 hackathons. 14 as a participant, 4 as an organizer and 1 as a sponsor. Here is a list of them:
 
 | #    | Name                | Role      | Location                         | Date       | Info                                                         |
 | :--- | :------------------ | :-------- | :------------------------------- | :--------- | :----------------------------------------------------------- |
