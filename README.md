@@ -8,7 +8,7 @@
 
 ![Hackathons map](img/hackathons.png)
 
-I have attended 20 hackathons. 15 as a participant, 4 as an organizer and 1 as a sponsor. Here is a list of them:
+I have attended 21 hackathons. 15 as a participant, 5 as an organizer and 1 as a sponsor. Here is a list of them:
 
 | #    | Name                | Role      | Location                         | Date       | Info                                                         |
 | :--- | :------------------ | :-------- | :------------------------------- | :--------- | :----------------------------------------------------------- |
@@ -32,5 +32,6 @@ I have attended 20 hackathons. 15 as a participant, 4 as an organizer and 1 as a
 | 18   | MamutHack 2019      | Hacker    | Cerdanyola del Valles, Catalonia | 2019/10/05 | First edition of a hackathon at UAB with around 90 hackers there. We built [Git Inspect](https://github.com/AlbertSuarez/git-inspect), a project that extracts all the public information from a GitHub user generating a cool analytics page, even a Spotify playlist based on your commits. |
 | 19   | HackUPC 2019        | Sponsor   | Barcelona, Catalonia             | 2019/10/11 | First time attending to a hackathon as sponsor representing [Restb.ai](https://restb.ai). It was cool to come back to my home hackathon with this new and different role. |
 | 20   | LauzHack 2019       | Hacker    | Lausanne, Switzerland            | 2019/11/16 | We used this hackathon for building a project that we wanted to do for a long time ago: [EasyCam](https://devpost.com/software/easycam). Webapp for sharing your DSLR camera images without cables quickly to Social Media. |
+| 21   | bitsxLaMarato 2019  | Organizer | Barcelona, Catalonia             | 2019/12/13 | I helped organizing this supportive hackathon against rare diseases for La Marató de TV3. 26 projects were built and we collected +2k€ on donations during that weekend. |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
