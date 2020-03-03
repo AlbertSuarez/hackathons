@@ -33,5 +33,6 @@ I have attended 21 hackathons. 15 as a participant, 5 as an organizer and 1 as a
 | 19   | HackUPC 2019        | Sponsor   | Barcelona, Catalonia             | 2019/10/11 | First time attending to a hackathon as sponsor representing [Restb.ai](https://restb.ai). It was cool to come back to my home hackathon with this new and different role. |
 | 20   | LauzHack 2019       | Hacker    | Lausanne, Switzerland            | 2019/11/16 | We used this hackathon for building a project that we wanted to do for a long time ago: [EasyCam](https://devpost.com/software/easycam). Webapp for sharing your DSLR camera images without cables quickly to Social Media. |
 | 21   | bitsxLaMarato 2019  | Organizer | Barcelona, Catalonia             | 2019/12/13 | I helped organizing this supportive hackathon against rare diseases for La Marató de TV3. 26 projects were built and we collected +2k€ on donations during that weekend. |
+| 22   | Hack The Burgh 2020 | Hacker    | Edinburgh, Scotland              | 2020/02/29 | We took advantadge of this hackathon for bulding [EyeTales](https://github.com/joelmoff/eye-tales), a tool that helps blind people by describing them their environment. We ranked as the best project using Transloadit API. |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
