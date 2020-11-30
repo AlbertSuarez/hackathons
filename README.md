@@ -8,7 +8,7 @@
 
 ![Hackathons map](img/hackathons.png)
 
-I have attended 26 hackathons. 19 as participant, 5 as organizer, 1 as speaker, 1 as sponsor. Here is a list of them:
+I have attended 27 hackathons. 20 as participant, 5 as organizer, 1 as speaker, 1 as sponsor. Here is a list of them:
 
 | #    | Name                          | Role      | Location                         | Date       | Info                                                         |
 | :--- | :---------------------------- | :-------- | :------------------------------- | :--------- | :----------------------------------------------------------- |
@@ -38,6 +38,7 @@ I have attended 26 hackathons. 19 as participant, 5 as organizer, 1 as speaker, 
 | 24   | COVID-19 Global Hackathon 1.0 | Hacker    | Online                           | 2020/03/26 | Taking advantage of the lockdown situation and wanting to experiement a bit with scraping and Twitter bots, I built an [small bot](https://devpost.com/software/covid19-bot) for tracking Coronavirus cases, deaths and recoveries. |
 | 25   | HackFromHome Round 2          | Hacker    | Online                           | 2020/04/04 | After doing a workshop in the past round, I wanted to build something fun in this short-period hackathon. That's why I built [Which dog are you?](https://devpost.com/software/which-dog-are-you), a dog and face person matcher based on image similarity. |
 | 26   | Hackovid                      | Hacker    | Online                           | 2020/04/06 | In this hackathon from the Government of Catalonia, organized by I2Cat, we built [Compra Local](https://github.com/carlotacb/compra-local), a web application for activating local businesses and making your neighborhood a better place. We ended up ranking in the postion 19 out of 61 projects. |
+| 27   | HackEPS 2020                  | Hacker    | Online                           | 2020/11/28 | In this hackathon, which I worked solo, I built [3D Net](https://github.com/AlbertSuarez/3d-net), a classification neural network able to classify a group of STL files, representing a 3D model, in one of the 66 category that the model has. I achieved the 2nd place in the Invelon challenge. |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
 
