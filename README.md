@@ -8,7 +8,7 @@
 
 ![Hackathons map](img/hackathons.png)
 
-I have attended 29 hackathons. 21 as participant, 5 as organizer, 1 as speaker, 1 as sponsor, 1 as judge. Here is a list of them:
+I have attended 30 hackathons. 21 as participant, 5 as organizer, 2 as sponsor, 1 as speaker, 1 as judge. Here is a list of them:
 
 | #    | Name                          | Role      | Location                         | Date       | Info                                                         |
 | :--- | :---------------------------- | :-------- | :------------------------------- | :--------- | :----------------------------------------------------------- |
@@ -41,5 +41,6 @@ I have attended 29 hackathons. 21 as participant, 5 as organizer, 1 as speaker, 
 | 27   | HackEPS 2020                  | Hacker    | Online                           | 2020/11/28 | In this hackathon, which I worked solo, I built [3D Net](https://github.com/AlbertSuarez/3d-net), a classification neural network able to classify a group of STL files, representing a 3D model, in one of the 66 category that the model has. I achieved the 1st place in best programming practices along with the 2nd place in the Invelon challenge. |
 | 28   | bitsxLaMarato 2020            | Hacker    | Online                           | 2020/12/19 | In this hackathon, focused in Covid-19, our team built [CaseScan](https://github.com/AlbertSuarez/casescan), a web application that searches for clinical cases by similarity specialized in Covid-19. |
 | 29   | HackUPC 2021                  | Judge     | Online                           | 2021/05/14 | First time attending to a hackathon as judge for the hackathon first jury in order to decide the 5 finalists. It was cool to come back to my home hackathon with this new and different role, even though it was online. |
+| 30   | HackUPC 2022                  | Sponsor   | Barcelona, Catalonia             | 2022/04/29 | In the same way as 2019, back to HackUPC representing [Restb.ai](https://restb.ai). |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
