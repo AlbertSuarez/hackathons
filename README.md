@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.io/AlbertSuarez/hackathons.svg)](http://hits.dwyl.io/AlbertSuarez/hackathons)
 [![GitHub stars](https://img.shields.io/github/stars/AlbertSuarez/hackathons.svg)](https://GitHub.com/AlbertSuarez/hackathons/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/hackathons.svg)](https://GitHub.com/AlbertSuarez/hackathons/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/AlbertSuarez/hackathons.svg)](https://github.com/AlbertSuarez/hackathons)
@@ -42,5 +41,7 @@ I have attended 30 hackathons. 21 as participant, 5 as organizer, 2 as sponsor, 
 | 28   | bitsxLaMarato 2020            | Hacker    | Online                           | 2020/12/19 | In this hackathon, focused in Covid-19, our team built [CaseScan](https://github.com/AlbertSuarez/casescan), a web application that searches for clinical cases by similarity specialized in Covid-19. |
 | 29   | HackUPC 2021                  | Judge     | Online                           | 2021/05/14 | First time attending to a hackathon as judge for the hackathon first jury in order to decide the 5 finalists. It was cool to come back to my home hackathon with this new and different role, even though it was online. |
 | 30   | HackUPC 2022                  | Sponsor   | Barcelona, Catalonia             | 2022/04/29 | In the same way as 2019, back to HackUPC representing [Restb.ai](https://restb.ai). |
+| 31   | HackUPC 2023                  | Sponsor   | Barcelona, Catalonia             | 2023/05/12 | In the same way as 2019 & 2022, back to HackUPC representing [Restb.ai](https://restb.ai). |
+| 32   | HackEPS 2023                  | Sponsor   | Lleida, Catalonia                | 2023/11/25 | For the first time, sponsoring the Lleida hackathon representing [Restb.ai](https://restb.ai). |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
