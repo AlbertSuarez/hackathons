@@ -43,5 +43,7 @@ I have attended 30 hackathons. 21 as participant, 5 as organizer, 2 as sponsor, 
 | 30   | HackUPC 2022                  | Sponsor   | Barcelona, Catalonia             | 2022/04/29 | In the same way as 2019, back to HackUPC representing [Restb.ai](https://restb.ai). |
 | 31   | HackUPC 2023                  | Sponsor   | Barcelona, Catalonia             | 2023/05/12 | In the same way as 2019 & 2022, back to HackUPC representing [Restb.ai](https://restb.ai). |
 | 32   | HackEPS 2023                  | Sponsor   | Lleida, Catalonia                | 2023/11/25 | For the first time, sponsoring the Lleida hackathon representing [Restb.ai](https://restb.ai). |
+| 33   | Datathon FME 2024             | Sponsor   | Barcelona, Catalonia             | 2024/11/16 | For the first time, sponsoring a Datathon representing [Restb.ai](https://restb.ai). |
+| 34   | HackEPS 2025                  | Sponsor   | Lleida, Catalonia                | 2025/11/22 | For the second time, sponsoring the Lleida hackathon representing [Restb.ai](https://restb.ai). |
 
 Please feel free to fork the [original repo](https://github.com/abdulajet/hackathons) and start your own list!
